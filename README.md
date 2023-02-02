@@ -1,17 +1,24 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+    With the help of statistical models, I explored the API structure and identified trends and patterns in data.
 
 ## Process
-### (your step 1)
-### (your step 2)
+    API-based data access
+    Data cleaning and transformation
+    Data loading into a database
+    Conducting EDAs
+    Analyzing data using statistical models to identify trends and patterns
+    Analyzing and interpreting statistical results
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+    According to 'Rating' as an attribute (POI), cafeterias such as hotels, bakeries, and restaurants are ranked in the top three
+    In terms of popularity as an attribute (POI), Miscellaneous Stores & Shopping Malls rank high
 
 ## Challenges 
-(discuss challenges you faced in the project)
+    I struggled to obtain the Fusion Authentication code (Yelp) since I am out of the country
+    After retrying for several hours, I eventually used the VPN
 
 ## Future Goals
-(what would you do if you had more time?)
+    As the adjusted R-squared value was relatively low (21.7%), I would like to explore the regression model with additional independent variables (POIs)
+    
